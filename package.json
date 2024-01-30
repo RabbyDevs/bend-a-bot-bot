@@ -1,0 +1,19 @@
+{
+  "name": "ron-assista-bot",
+  "version": "1.8.2",
+  "description": "bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "rabby",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "7": "^0.0.1",
+    "discord.js": "^14.9.0",
+    "http": "^0.0.1-security",
+    "package.json": "^2.0.1",
+    "pm2": "^5.3.0",
+    "uuid": "^9.0.0"
+  }
+}
