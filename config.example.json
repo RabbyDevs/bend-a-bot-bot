@@ -1,0 +1,5 @@
+{
+	"token": "BOT_TOKEN_HERE",
+	"clientId": "BOT_CLIENT_ID_HERE",
+	"blacklistedGroups": "BLACKLISTED IDS HERE SEPARATE WITH ',' NO SPACE -> (1,2,3)"
+}
